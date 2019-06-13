@@ -8,7 +8,6 @@ import {
 
 const styles = StyleSheet.create({
     button: {
-        top: 24,
         fontSize: 35,
         height: Dimensions.get('window').width / 4,
         width: Dimensions.get('window').width / 4,
